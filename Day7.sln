@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{F89AA150-08AB-49BF-AEAA-E5530D4C1FF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.ConsoleUI", "Task1\Task1.ConsoleUI.csproj", "{F89AA150-08AB-49BF-AEAA-E5530D4C1FF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{E2EA4068-3FA7-446A-ABDE-DD9CBC14BB95}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{4923B72B-A0C4-4001-B1BA-C7EBAFC787F9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.Tests", "Task4.Tests\Task4.Tests.csproj", "{1D8E3825-B635-4CE9-8C19-9DD8295BB534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.Logic", "Task1.Logic\Task1.Logic.csproj", "{3F8FBB8B-5C3C-4A88-897E-F30D23606FD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{1D8E3825-B635-4CE9-8C19-9DD8295BB534}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D8E3825-B635-4CE9-8C19-9DD8295BB534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D8E3825-B635-4CE9-8C19-9DD8295BB534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8FBB8B-5C3C-4A88-897E-F30D23606FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8FBB8B-5C3C-4A88-897E-F30D23606FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8FBB8B-5C3C-4A88-897E-F30D23606FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8FBB8B-5C3C-4A88-897E-F30D23606FD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
